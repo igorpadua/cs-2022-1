@@ -1,6 +1,8 @@
-### Tarefa 005 - 10/05/2022
+## Tarefa 005 - 10/06/2022 - Linguagens de Programação
 
-Elaborar um pesquisa sobre linguagens de programação, abordar de forma generalizada os aspectos de pelo menos 5 linguagens. Abordar de forma mais específica as características de uma linguagem de sua preferência. Pode ser uma cinco ou não.
+1. Elaborar um pesquisa sobre linguagens de programação, abordar de forma generalizada os aspectos de pelo menos 5 linguagens. Abordar de forma mais específica as características de uma linguagem de sua preferência. Pode ser uma das cinco ou não.
+2. O resultado desta pesquisa deverá ser um texto eaborado com suas próprias palavras explicitando seu entendimento acerca do conteúdo pesquisado.
+Commitar no repositório pessoal até o dia 14/06.
 
 Linguagens escolhidas:
 
