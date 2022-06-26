@@ -19,9 +19,11 @@ int main(void)
 {
 
 	int ipi;
-	int codigoPeca1, quantPeca1;
+	int codigoPeca1;
+	int quantPeca1;
 	double valorPeca1;
-	int codigoPeca2, quantPeca2;
+	int codigoPeca2;
+	int quantPeca2;
 	double valorPeca2;
 
 	std::cout << "A porcentagem do IPI a ser acrescido no valor das peças:" << std::endl;
