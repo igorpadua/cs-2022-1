@@ -1,0 +1,5 @@
+enum TipoEndereco 
+{
+    Comercial,
+    Residencial
+};

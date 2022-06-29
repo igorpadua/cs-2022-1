@@ -1,0 +1,4 @@
+class IEnderecolmpl : public IEndereco
+{
+
+};
