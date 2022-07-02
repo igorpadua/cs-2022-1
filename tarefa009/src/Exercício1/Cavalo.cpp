@@ -4,6 +4,6 @@ void Cavalo::som() {
     std::cout << "hinn in in" << std::endl;
 }
 
-void Cavalo::corre() {
+void Cavalo::comportamento() {
     std::cout << "Cavalo correndo" << std::endl;
 }

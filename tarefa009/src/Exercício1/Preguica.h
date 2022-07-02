@@ -8,7 +8,7 @@ class Preguica : public Animal
 public:
     Preguica(std::string nome, int idade) : Animal(nome, idade) {};
     virtual void som();
-    void subir();
+    virtual void comportamento();
     
 };
 

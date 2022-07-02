@@ -8,7 +8,7 @@ class Cavalo : public Animal
 public:
     Cavalo(std::string nome, int idade) : Animal(nome, idade) {};
     virtual void som();
-    void corre();
+    virtual void comportamento();
 };
 
 #endif // !CAVALO

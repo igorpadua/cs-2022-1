@@ -24,3 +24,7 @@ void Animal::setNome(std::string nome) {
 void Animal::setIdade(int idade) {
     this->idade = idade;
 }
+
+void Animal::comportamento() {
+    std::cout << "Comportamento padrão" << std::endl;
+}

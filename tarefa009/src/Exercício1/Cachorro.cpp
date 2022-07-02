@@ -4,6 +4,6 @@ void Cachorro::som() {
     std::cout << "Auau" << std::endl;
 }
 
-void Cachorro::corre() {
+void Cachorro::comportamento() {
     std::cout << "Cachorro correndo" << std::endl;
 }
