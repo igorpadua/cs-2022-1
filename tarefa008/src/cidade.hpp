@@ -1,5 +1,14 @@
+#pragma once
+
 #include <iostream>
-#include "estado.h"
+#include "estado.hpp"
+
+/**
+* Classe que representa uma cidade
+* @author Igor M. Pádua
+* @date 15/07/21
+* @version 0.1
+*/
 
 class Cidade
 {
