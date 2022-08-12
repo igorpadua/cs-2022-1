@@ -2,3 +2,4 @@
 *.out
 build
 .directory
+.ccls-cache
